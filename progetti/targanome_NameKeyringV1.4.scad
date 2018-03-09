@@ -4,7 +4,7 @@
 Font_name = "Chewy"; // [ Anton, Chewy, Forte, Gloria Hallelujah, Lobster, Luckiest Guy, Open Sans Extrabold, Oswald, Pacifico, Press Start 2P, Racing Sans One, Sigmar One, Snap ITC]
 
 // for your keyring
-name = "denise";
+name = "sabrina";
 
 // of the preview
 Rotation = 0; // [0:5:360]
@@ -12,7 +12,7 @@ Rotation = 0; // [0:5:360]
 /* [Spacing and Height] */
 
 // between letters adjust the overlap (e.g. 5 letters = 5 comma seperated numbers [5,5,4.8,4.2,4])
-spacing = [14,12,1,10.5,9.6,9.1,9.5,9.5];
+spacing = [12,10,11.5,12,10.5,10,10.2,10];
 
 // of each letter (e.g. 5 letters = 5 comma seperated numbers [4,3,3.5,3,4])
 height = [5,6,4,5,4,3,5,4,6,4,3,5,4,6];
