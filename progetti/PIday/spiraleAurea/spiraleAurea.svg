@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="spiraleAurea.svg">
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path4162"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path4165"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4167"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4169"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="$MODEL_SPACE" />
+    <symbol
+       id="$PAPER_SPACE" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="138.7537"
+     inkscape:cy="104.90313"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4173"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4173"
+       inkscape:label="0"
+       transform="translate(138.94333,-396.3867)">
+      <path
+         id="path4209"
+         style="fill:none;stroke:#ff00ff;stroke-width:0.48117331;stroke-linecap:round"
+         d="m -24.528271,1376.3559 c -1.631148,2.2405 -0.597901,5.4205 2.038655,6.2744 m 8.624959,-6.2744 c -2.634414,-3.626 -8.040108,-3.626 -10.674522,0 m 5.342713,16.4096 c 6.889939,-2.2387 9.5900242,-10.5487 5.331809,-16.4096 m -27.917709,0 c 0,11.7219 11.437744,20.0319 22.5859,16.4096 m 13.9588564,-42.9609 c -18.0380994,-5.861 -36.5447614,7.585 -36.5447564,26.5513 m 59.130656,42.9609 c 18.0381,-24.8272 6.600355,-60.029 -22.5858996,-69.5122 m -95.6754104,69.5122 c 13.752013,18.9281 35.734339,30.1286 59.130654,30.1286 23.396321,0 45.378646,-11.2005 59.130656,-30.1286 m -68.764511,-178.367 c -31.489843,13.2699 -55.634049,39.5003 -66.294579,72.31 -11.69815,36.0033 -5.45344,75.4309 16.79778,106.057"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccsccsc" />
+      <path
+         id="path4217"
+         style="fill:none;stroke:#000000;stroke-width:0.48117331;stroke-linecap:round"
+         d="m -50.327523,1263.6307 8.545157,6.2084 m 8.545162,-6.2084 -8.545162,6.2084 m -5.281195,-16.2538 10.562394,0 m -64.411853,165.7315 118.26131,0 m -39.839995,-36.693 1.257383,-3.8698 m -3.293949,-2.3981 5.326353,3.8777 m 5.337261,-3.8777 -8.627048,6.2679 m 3.295239,10.1417 -5.331805,-16.4096 m -17.254095,0 27.917709,0 m 8.6270474,-26.5513 -13.9588564,42.9609 m -22.5859,-16.4096 59.130656,42.9609 m -118.26131,0 95.6754104,-69.5122 m 22.5858996,69.5122 -59.130656,-181.9854 m 0,0 -59.130654,181.9854"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.48117331px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -51.417972,1240.9439 9.630034,-3.5999"
+         id="path4286"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
